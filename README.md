@@ -1,4 +1,7 @@
 # mhischool
 non profit projects
 
-continue later, sampai img/banner
+next to do:
+- update copywrite profil sekolah
+- foto kegiatan sekolah
+- struktur organisasi
