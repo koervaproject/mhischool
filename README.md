@@ -5,3 +5,5 @@ next to do:
 - update copywrite profil sekolah
 - foto kegiatan sekolah
 - struktur organisasi
+- jadwal event
+- mata pelajaran
